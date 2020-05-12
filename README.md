@@ -11,3 +11,5 @@ run ``cd seash``
 then create a directory named ``modules``
 
 then run ``mv /home/username/seash/colors.rb /modules/``
+
+mark ``shell`` as an executable or run ``ruby shell``
