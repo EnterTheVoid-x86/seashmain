@@ -10,4 +10,4 @@ run ``cd seash``
 
 then create a directory named ``modules``
 
-then run ``mv /home/username/seash/colors.rb /modules/
+then run ``mv /home/username/seash/colors.rb /modules/``
